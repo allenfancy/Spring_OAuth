@@ -3,8 +3,8 @@
 <config id="github">
 
 	<params>
-		<param name="clientId" value="aed8d1a55e3b743ea174" />
-		<param name="clientSecret" value="028db4db9e6bfd0adcbd77bef80963ee1758bbd2" />
+		<param name="clientId" value="XXXXXXXXXXX" />
+		<param name="clientSecret" value="XXXXXXXXXXXXXXXXXXXXXXXXXXXXX" />
 		<param name="state" value="allen" />
 		<param name="scope" value="user" />
 		<param name="redirectUri"
