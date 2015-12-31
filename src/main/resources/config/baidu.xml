@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config id="baidu">
 	<params>
-	<param name="clientId" value="6655128"/>
-	<param name="apiKey" value="nT7S4LxaXkq50uXfi0hnY5VW"/>
-	<param name="secretKey" value="mtSIhGNTQIi5qPu7Dgt7FCMlcEh79GCG"/>
+	<param name="clientId" value="XXXXXXXXXXXXXXXXXXX"/>
+	<param name="apiKey" value="XXXXXXXXXXXXXXXXXXXXXXX"/>
+	<param name="secretKey" value="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"/>
 	<param name="scope" value=""/>
 	<param name="redirectUri" value="http://localhost:8080/Spring_OAuth2.0/third_login/baidu"/>
 	<param name="apiBaseUrl" value="https://openapi.baidu.com/rest/2.0"/>
