@@ -3,8 +3,8 @@
 <config id="wechat">
 
 	<params>
-		<param name="appId" value="wxb4fd84ebe745a79b" />
-		<param name="appsecret" value="bf66aa0cee171d8605cdac5bb0702ad1" />
+		<param name="appId" value="xxxx" />
+		<param name="appsecret" value="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
 		<param name="state" value="STATE" />
 		<param name="response_type" value="code" />
 		<param name="scope" value="snsapi_base" />
